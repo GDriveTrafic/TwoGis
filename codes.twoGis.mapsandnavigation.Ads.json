@@ -15,9 +15,9 @@
       "age_activity": false,
       "devices_activity": false,
 
-      "interAds": "Yandex",
-      "bannerAds": "Yandex",
-      "nativeAds": "Yandex",
+      "interAds": "Admob",
+      "bannerAds": "Admob",
+      "nativeAds": "Admob",
       "interClick": 1,
       
       "key1": "",
