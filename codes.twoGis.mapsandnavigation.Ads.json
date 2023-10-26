@@ -1,7 +1,7 @@
 {
   "Data": [
     {
-      "network": "Yandex",
+      "network": "Admob",
       
       "inReview": false,
       "likeUs": false,
@@ -24,9 +24,9 @@
       "key2": "",
       "key3": "",
      
-      "A_inter" : [""],
-      "A_banner": [""],
-      "A_native": [""],
+      "A_inter" : ["t"],
+      "A_banner": ["t"],
+      "A_native": ["t"],
       
       "F_inter" : ["IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"],
       "F_banner": ["IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"],
