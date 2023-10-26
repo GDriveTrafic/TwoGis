@@ -15,24 +15,24 @@
     "fan_native": "140549657911283_140549707911278",
         
         
-    "title": "o que é assistente pessoal?",
-    "text": "Um assistente pessoal de voz, muitas vezes referido como assistente pessoal virtual ou simplesmente assistente de voz, é um programa de software ou aplicativo que usa processamento de linguagem natural e tecnologia de reconhecimento de fala para interagir com os usuários por meio da linguagem falada. ",
-    "text2": "Esses assistentes são projetados para realizar uma ampla gama de tarefas e fornecer informações, serviços e assistência aos usuários por meio de comandos de voz ou consultas."
+    "title": "Карта 2ГИС 1",
+    "text": "Android SDK — это SDK, который позволяет вам добавлять карту 2gis в ваше приложение для Android. ",
+    "text2": "его можно использовать для отображения карты в вашем макете, добавления к ней пользовательских маркеров, рисования геометрических фигур, расчета и отображения маршрутов, получения информации об объектах карты, управления движением камеры и так далее."
   },
   {
-    "title": "qual o objetivo de uma assistência pessoal",
-    "text": "Um assistente pessoal de voz é um companheiro digital que usa reconhecimento de fala e processamento de linguagem natural para ajudar os usuários em tarefas como responder perguntas, definir lembretes, controlar dispositivos inteligentes e fornecer informações, tudo por meio de comandos de voz ou consultas.",
+    "title": "Карта 2ГИС 2",
+    "text": "Редактор настраивает стили слоев карты. Каждый слой стиля задает внешний вид целой группы объектов из данных карты.",
     "text2": ""
   },
   {
-    "title": "como funciona uma assistência pessoal?",
-    "text": "Um assistente pessoal funciona ouvindo comandos de voz, convertendo-os em texto, entendendo a intenção do usuário por meio do processamento de linguagem, acessando serviços baseados em nuvem para obter informações, executando tarefas ou fornecendo respostas e fornecendo respostas faladas através do alto-falante de um dispositivo,",
-    "text2": "tudo isso enquanto prioriza o usuário privacidade e aprendizado com as interações para melhorar o desempenho ao longo do tempo."
+    "title": "Карта 2ГИС 3",
+    "text": "Данные карты ГИС — это объекты, состоящие из геометрии и атрибутов. Карта использует атрибуты, чтобы определить, какому слою стиля назначить объект — когда его отображать и какого цвета и размера он должен быть. ",
+    "text2": "Редактор может изменить эти слои стиля и настроить карту в визуальном стиле любого сервиса или приложения."
   },
     {
-    "title": "impacto da assistência pessoal",
-    "text": "Os assistentes pessoais de voz impactaram a vida humana ao proporcionar conveniência, acessibilidade e eficiência nas tarefas, oferecendo acesso à informação, melhorando as casas inteligentes, promovendo a segurança, auxiliando na educação e no bem-estar, mas também levantando preocupações com a privacidade e transformando as interações comerciais.",
-    "text2": "Sua influência varia de acordo com as necessidades do usuário e sua familiaridade com a tecnologia"
+    "title": "Карта 2ГИС 4",
+    "text": "Готовый проект со стилями хранится на бэкенде 2ГИС.",
+    "text2": ""
 
   },
   {
